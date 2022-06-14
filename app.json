@@ -1,0 +1,21 @@
+{
+    "name": "my3",
+    "description": "my3",
+
+    "env": {
+        "PASSWORD": {
+            "description": "shadowsocks-libev password",
+            "value": "ChangeThis"
+        },
+        "METHOD": {
+            "description": "shadowsocks-libev method",
+            "value": "chacha20-ietf-poly1305"        
+        },
+        "WSPATH": {
+            "description": "websocket path",
+            "value": "/ChangeThis"        
+        }
+    },
+
+    "stack": "container"
+}
