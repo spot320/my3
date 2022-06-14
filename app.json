@@ -5,7 +5,7 @@
     "env": {
         "PASSWORD": {
             "description": "shadowsocks-libev password",
-            "value": "aae3f2bd-16db-4ca7-9178-b963c8829a8d"
+            "value": "password"
         },
         "METHOD": {
             "description": "shadowsocks-libev method",
@@ -13,7 +13,7 @@
         },
         "WSPATH": {
             "description": "websocket path",
-            "value": "aae3f2bd-16db-4ca7-9178-b963c8829a8d"        
+            "value": "/posts.html"        
         }
     },
 
