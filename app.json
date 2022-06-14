@@ -1,7 +1,7 @@
 {
     "name": "my3",
     "description": "my3",
-
+    "keywords": ["shadowsocks-libev"],
     "env": {
         "PASSWORD": {
             "description": "shadowsocks-libev password",
@@ -19,3 +19,24 @@
 
     "stack": "container"
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
